@@ -8,10 +8,16 @@ The Re-DocRED Dataset resolved the following problems of DocRED:
 3. Corrected the coreferential errors within DocRED.
 
 # Statistics of Re-DocRED
-|  | Re-DocRED|
+The Re-DocRED dataset is located as ./data directory, the statistics of the dataset are shown below:
+
+
 |  | #Train  | #Dev  |  #Test  |
 | :---:   | :-: | :-: |:-: |
 | # Documents | 3,053 | 500 |  500 |
 | # Avg. Triples | 28.1 | 34.6 |  34.9 |
 | # Avg. Entities | 19.4 | 19.4 | 19.6 |
 | # Avg. Sents | 7.9 | 8.2 | 7.9 |
+
+# Citation
+If you find our work useful, please cite our work as:
+
