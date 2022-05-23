@@ -8,7 +8,7 @@ The Re-DocRED Dataset resolved the following problems of DocRED:
 3. Corrected the coreferential errors within DocRED.
 
 # Statistics of Re-DocRED
-
+|  | Re-DocRED|
 |  | #Train  | #Dev  |  #Test  |
 | :---:   | :-: | :-: |:-: |
 | # Documents | 3,053 | 500 |  500 |
