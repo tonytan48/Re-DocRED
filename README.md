@@ -20,4 +20,12 @@ The Re-DocRED dataset is located as ./data directory, the statistics of the data
 
 # Citation
 If you find our work useful, please cite our work as:
-
+```bibtex
+@article{tan2022revisiting,
+  title={Revisiting DocRED - Addressing the Overlooked False Negative Problem in Relation Extraction},
+  author={Tan, Qingyu and Xu, Lu and Bing, Lidong and Ng, Hwee Tou},
+  journal={arXiv preprint arXiv:2205.12696},
+  url={https://arxiv.org/abs/2205.12696},
+  year={2022}
+}
+‘’‘
