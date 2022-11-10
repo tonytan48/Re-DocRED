@@ -14,7 +14,7 @@ The Re-DocRED Dataset resolved the following problems of DocRED:
 The Re-DocRED dataset is located as ./data directory, the statistics of the dataset are shown below:
 
 
-|  | #Train  | #Dev  |  #Test  |
+|  | Train  | Dev  |  Test  |
 | :---:   | :-: | :-: |:-: |
 | # Documents | 3,053 | 500 |  500 |
 | Avg. # Triples | 28.1 | 34.6 |  34.9 |
