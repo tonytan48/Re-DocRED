@@ -6,7 +6,7 @@ in Relation Extraction](https://arxiv.org/pdf/2205.12696.pdf).
 DocRED is a widely used benchmark for document-level relation extraction. However, the DocRED dataset contains a significant percentage of false negative examples (incomplete annotation). We revised 4,053 documents in the DocRED dataset and resolved its problems. We released this dataset as: Re-DocRED dataset.
 
 The Re-DocRED Dataset resolved the following problems of DocRED:
-1. Resolved the incompleteness problem by supplementing large amounts relationtion triples.
+1. Resolved the incompleteness problem by supplementing large amounts of relation triples.
 2. Addressed the logical inconsistencies in DocRED.
 3. Corrected the coreferential errors within DocRED.
 
